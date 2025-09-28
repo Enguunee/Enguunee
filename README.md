@@ -11,6 +11,10 @@ I bridge the gap between **engineering** and **art**, blending code with creativ
 
 ![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nodejs,express,nextjs,ai,git,github,figma&theme=light)
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9qbXpjeTlkNXh4c25rejhrd2k1cmlhcnhiZDJ2M2Uxejk0YXhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BJmTtZL4hova8/giphy.gif"/>
+</p>
+
 
 ---
 
@@ -73,15 +77,21 @@ I bridge the gap between **engineering** and **art**, blending code with creativ
 
 ---
 
-## 🎬 Beyond Code  
-When I’m not programming, you’ll probably find me:  
-🎥 Making short films & animations  
-🎶 Playing the horse fiddle (morin khuur)  
-✏️ Experimenting with 2D animation  
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
+## 🎨 Beyond Code
+
+<table>
+  <tr>
+    <td>
+      <b>When I’m not programming, you’ll probably find me:</b><br><br>
+      🎥 Making short films & animations <br>
+      🎶 Playing the horse fiddle (morin khuur) <br>
+      ✏️ Experimenting with 2D animation
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJkajkydzV6Ync1MnJxbnloZTdyZW9yNnA3ZGNkaDhqcWlyeDJqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUarrmo6rpyX6/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,5 +101,11 @@ When I’m not programming, you’ll probably find me:
 
 ---
 
-✨ *I believe technology and creativity together can solve problems and inspire people. Let’s build something amazing!*  
+<p align="center">
+💌 Don’t go just yet! I hope you enjoyed my profile – feel free to check out my projects and reach out. 😊
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlvMThrcHdhMW9namU2dDd5ejd1NWx1ZHJqOXk4bHNsOXB2OXU4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MAoQflDjZOD0LjAaTw/giphy.gif" alt="Fun GIF" width="400"/>
+</p>
 
