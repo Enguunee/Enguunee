@@ -9,7 +9,7 @@ I bridge the gap between **engineering** and **art**, blending code with creativ
 
 ## 🪄 Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nodejs,express,nextjs,ai,git,github,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,git,github,figma&theme=light)
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9qbXpjeTlkNXh4c25rejhrd2k1cmlhcnhiZDJ2M2Uxejk0YXhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BJmTtZL4hova8/giphy.gif"/>
