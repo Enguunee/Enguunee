@@ -37,11 +37,9 @@ Right now I’m focused on **hardware → data → user interface** (sensors, mi
       <sub>Button/LED/buzzer game with non-blocking timing and score logic.</sub><br/><br/>
       <a href="https://github.com/Enguunee/reaction-time-game">Repo</a>
     </td>
-    <td align="center" width="50%">
+        <td align="center" width="50%">
       <b>Ultrasonic Sonar Scanner (Embedded)</b><br/>
       <sub>Servo-mounted ultrasonic sensor that sweeps angles to measure distance and provide real-time proximity feedback.</sub><br/><br/>
-      
-
       <a href="https://github.com/Enguunee/sonar-scanner">Repo</a>
     </td>
   </tr>
