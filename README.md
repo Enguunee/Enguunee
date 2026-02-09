@@ -47,11 +47,18 @@ Right now I’m focused on **hardware → data → user interface** (sensors, mi
 
 ---
 
-## GitHub Stats
+<h2>GitHub Stats</h2>
 
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enguunee&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enguunee&layout=compact&theme=tokyonight)
+<table>
+<tr>
+<td>
+<img src="https://gh-readme-stats.vercel.app/api?username=Enguunee&show_icons=true&theme=tokyonight" height="170"/>
+</td>
+<td>
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Enguunee&layout=compact&theme=tokyonight" height="170"/>
+</td>
+</tr>
+</table>
 
 
 ---
