@@ -38,9 +38,11 @@ Right now I’m focused on **hardware → data → user interface** (sensors, mi
       <a href="https://github.com/Enguunee/reaction-time-game">Repo</a>
     </td>
     <td align="center" width="50%">
-      <b>Wearables Motion Dashboard (Python)</b><br/>
-      <sub>Parsing serial/binary microcontroller data and visualizing motion signals (in progress).</sub><br/><br/>
-      <a href="https://github.com/Enguunee/wearables-motion-dashboard">Repo</a>
+      <b>Ultrasonic Sonar Scanner (Embedded)</b><br/>
+      <sub>Servo-mounted ultrasonic sensor that sweeps angles to measure distance and provide real-time proximity feedback.</sub><br/><br/>
+      
+
+      <a href="https://github.com/Enguunee/sonar-scanner">Repo</a>
     </td>
   </tr>
 </table>
