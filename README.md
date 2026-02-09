@@ -48,8 +48,11 @@ Right now I’m focused on **hardware → data → user interface** (sensors, mi
 ---
 
 ## GitHub Stats
+
 ![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enguunee&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enguunee&layout=compact&theme=tokyonight)
+
 
 ---
 
