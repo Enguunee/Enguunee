@@ -1,111 +1,60 @@
-# 🧙‍♀️ Eva Batdorj
+# Eva Batdorj 🧙‍♀️
 
-**`Code Sorcerer (Developer/Filmmaker/Animator)`**
+Electrical & Computer Engineering student in Denver building embedded systems + simple web apps.
 
-🚀 **Aspiring Software Engineer** with a passion for building impactful technology and exploring creative storytelling.  
-I bridge the gap between **engineering** and **art**, blending code with creativity—from AI engineering to 2D animation.  
+Right now I’m focused on **hardware → data → user interface** (sensors, microcontrollers, Python/JS dashboards).
+
+## What I’m working on
+- **Wearables (COSGC):** head-movement tracking + data parsing/visualization
+- **Embedded projects:** sensors + Arduino firmware + real-time feedback
+- **Web mini apps:** HTML/CSS/JavaScript (DOM + UI logic)
+
+## Skills (practical)
+- **Languages:** Python, JavaScript, C/C++ (Arduino)
+- **Tools:** Git/GitHub, VS Code, Arduino IDE
+- **Hardware:** sensors, microcontrollers, circuit prototyping
+- **Also learning:** modern frontend/back-end fundamentals (in progress)
 
 ---
 
-## 🪄 Skills
-
-![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,git,github,figma&theme=light)
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9qbXpjeTlkNXh4c25rejhrd2k1cmlhcnhiZDJ2M2Uxejk0YXhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BJmTtZL4hova8/giphy.gif"/>
-</p>
-
-
----
-
+## Featured Projects
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/snake-game">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Snake_game_screenshot.png"
-             alt="Snake Game Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Snake Game with High Score</b><br/>
-      <sub>Classic Snake Game built with Python & Turtle graphics, featuring high score persistence.</sub><br/>
-      🔗 <a href="https://github.com/yourusername/snake-game">Repo</a>  
-      <br/>
-      <sub>Tags: Python, OOP, Game Dev</sub>
+    <td align="center" width="50%">
+      <b>Clicker Shelf Detection System (Arduino)</b><br/>
+      <sub>Detects missing classroom clickers using photoresistor sensors + LCD live status.</sub><br/><br/>
+      <a href="https://github.com/Enguunee/clicker-shelf-detection">Repo</a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/us-states-game">
-        <img src="https://i.imgur.com/Zq5RkK5.png"
-             alt="U.S. States Game Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>U.S. States Quiz Game</b><br/>
-      <sub>Interactive quiz using Tkinter & Pandas, where players guess U.S. states and track progress.</sub><br/>
-      🔗 <a href="https://github.com/yourusername/us-states-game">Repo</a>  
-      <br/>
-      <sub>Tags: Python, Tkinter, Pandas, Data</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/habit-tracker">
-        <img src="https://i.imgur.com/6tY1F4G.png"
-             alt="Habit Tracker Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Habit Tracker (Pixela API)</b><br/>
-      <sub>API-powered app to log daily habits and generate pixel graphs for progress tracking.</sub><br/>
-      🔗 <a href="https://github.com/yourusername/habit-tracker">Repo</a>  
-      <br/>
-      <sub>Tags: Python, APIs, HTTP Requests</sub>
+    <td align="center" width="50%">
+      <b>Web Apps Collection (HTML/CSS/JS)</b><br/>
+      <sub>Small interactive apps (score counters, utilities, mini games) to practice DOM + UI logic.</sub><br/><br/>
+      <a href="https://github.com/Enguunee/web-apps-collection">Repo</a>
     </td>
   </tr>
-</table>
-
----
-## 📊 GitHub Stats
-
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enguunee&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enguunee&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Enguunee&theme=tokyonight&border_radius=10)
-## 🌱 Currently  
-- Learning advanced AI and full-stack engineering  
-- Building personal projects to showcase soon on GitHub  
-- Growing as a creator in both **tech** and **film/animation**  
-
----
-
-## 🎨 Beyond Code
-
-<table>
   <tr>
-    <td>
-      <b>When I’m not programming, you’ll probably find me:</b><br><br>
-      🎥 Making short films & animations <br>
-      🎶 Playing the horse fiddle (morin khuur) <br>
-      ✏️ Experimenting with 2D animation
+    <td align="center" width="50%">
+      <b>Reaction Time Game (Embedded)</b><br/>
+      <sub>Button/LED/buzzer game with non-blocking timing and score logic.</sub><br/><br/>
+      <a href="https://github.com/Enguunee/reaction-time-game">Repo</a>
     </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJkajkydzV6Ync1MnJxbnloZTdyZW9yNnA3ZGNkaDhqcWlyeDJqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUarrmo6rpyX6/giphy.gif" />
+    <td align="center" width="50%">
+      <b>Wearables Motion Dashboard (Python)</b><br/>
+      <sub>Parsing serial/binary microcontroller data and visualizing motion signals (in progress).</sub><br/><br/>
+      <a href="https://github.com/Enguunee/wearables-motion-dashboard">Repo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📫 Let’s Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/eva-batdorj-12213332a)  
-- 📷 [Instagram](https://www.instagram.com/your-handle-here)  
+## GitHub Stats
+![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enguunee&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enguunee&layout=compact&theme=tokyonight)
 
 ---
 
-<p align="center">
-💌 Don’t go just yet! I hope you enjoyed my profile – feel free to check out my projects and reach out. 😊
-</p>
+## Beyond code
+I also like creative projects (film/animation) and I play **morin khuur** 🎶
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlvMThrcHdhMW9namU2dDd5ejd1NWx1ZHJqOXk4bHNsOXB2OXU4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MAoQflDjZOD0LjAaTw/giphy.gif" alt="Fun GIF" width="400"/>
-</p>
-
+## Let’s connect
+- LinkedIn: https://www.linkedin.com/in/eva-batdorj-12213332a
