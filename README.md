@@ -1,13 +1,13 @@
 # Eva Batdorj 🧙‍♀️
 
-Electrical & Computer Engineering student in Denver building embedded systems + simple web apps.
+Electrical & Computer Engineering student in Denver building embedded systems + web apps.
 
 Right now I’m focused on **hardware → data → user interface** (sensors, microcontrollers, Python/JS dashboards).
 
 ## What I’m working on
 - **Wearables (COSGC):** head-movement tracking + data parsing/visualization
 - **Embedded projects:** sensors + Arduino firmware + real-time feedback
-- **Web mini apps:** HTML/CSS/JavaScript (DOM + UI logic)
+- **Web apps:** HTML/CSS/JavaScript (DOM + UI logic)
 
 ## Skills (practical)
 - **Languages:** Python, JavaScript, C/C++ (Arduino)
